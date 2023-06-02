@@ -3,16 +3,20 @@
 
 ### Project Topic: Food Delivery Management
 
-#### Data Model: Document + Graph
+### Data Model: Document + Graph
 
 ### Target Platform: Azure Cosmos DB
 
 # Objective: 
 
 	The objectives of the project are as follows:
+	
 •	The food delivery system should be able to handle many orders and customers without any performance issues.
+
 •	Design and implementation of data models to store customer information, restaurant menus, and delivery logistics in Cosmos DB.
+
 •	Development of analytics and reporting capabilities to provide insights into order history and delivery logistics.
+
 •	Deployment and maintenance of the system on Microsoft Azure.
 
 # Visualization Tools: PowerBI
