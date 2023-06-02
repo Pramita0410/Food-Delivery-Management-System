@@ -1,11 +1,11 @@
 # Food-Delivery-Management-System
 
 
-# Project Topic: Food Delivery Management
+### Project Topic: Food Delivery Management
 
-# Data Model: Document + Graph
+#### Data Model: Document + Graph
 
-# Target Platform: Azure Cosmos DB
+### Target Platform: Azure Cosmos DB
 
 # Objective: 
 
