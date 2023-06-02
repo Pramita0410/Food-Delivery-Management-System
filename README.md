@@ -9,7 +9,7 @@
 
 # Objective: 
 
-	The objectives of the project are as follows:
+The objectives of the project are as follows:
 	
 •	The food delivery system should be able to handle many orders and customers without any performance issues.
 
